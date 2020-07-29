@@ -1,0 +1,164 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 107px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: #212121;
+}
+
+h2 {
+    color: #86878B;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 30px 0 30px 0;
+}
+
+h3 {
+    margin: 29px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+
+h4{
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    padding-top: 107px;
+    color: white; 
+    margin: 30px auto;
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 732;
+    color: white; 
+    margin: auto;
+    padding: auto;
+}
+
+hr {
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: #FF8B38;
+    margin: 30px auto;
+}
+
+.hr-white-line {
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: white;
+    margin: 30px auto;
+}
+
+
+main {
+    padding: 0 0 0 0;
+    font-size: 0;
+}
+
+.pic {
+    display: inline-block;
+    width: 350px;
+    margin: 16px 16px 30px;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #86878B;
+}
+
+.icon--lamp {
+    background: url(../img/lamp.png) no-repeat center;
+}
+
+.icon--keyboard {
+    background: url(../img/keyboard.png) no-repeat center;
+}
+
+.icon--lightning {
+    background: url(../img/lightning.png) no-repeat center;
+}
+
+.color {
+  background-image: url(../img/street.png);  
+  background-repeat: no-repeat;
+  filter: brightness(0.4);
+  background-size: cover;
+  margin: auto;
+  padding: auto;
+  height: 321px;
+  width: 1401px;
+    
+}
+
+.but {
+    display: inline-block;
+    width: 350px;
+    margin: 0 16px;
+}
+
+button {
+    width: 135px;
+    height: 42px;
+    background-color: transparent;
+    color: white
+}
+
+footer {
+    
+    padding: 0px;
+    margin: auto;
+    background:black;
+    color:white;
+    height: 101px;
+    width: 1401px;
+    overflow: hidden;
+    }
+.img {
+    width: 317px;
+    height: 23px;
+}
+
+.links {
+    
+    width: 317px;
+    height: 23px;
+    margin: 15px auto;
+
+}
+ 
+.thumb {
+    width: 23px;
+    height: 23px;
+    margin: 0 auto;
+    
+}
+
+.text{
+    font-size: 9px;
+    width: 124;
+}
